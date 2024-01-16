@@ -32,5 +32,8 @@ public class _01_baek2738 {
 			}
 			System.out.println();
 		}
+		
+		sc.close();
+		
 	}
 }
