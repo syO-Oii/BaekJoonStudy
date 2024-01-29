@@ -5,6 +5,3 @@
    - 클래스명 : _순서_baek문항번호.java   // 예 : _03_baek2753.java
    - 향후 더 효율적인 방법이 있다면 수정하기 위해 보관
 
-* Blog : https://blog.naver.com/syo_oii
-
-* 강사님 깃허브 : github.com/Jiwoong-Jung/202401java
